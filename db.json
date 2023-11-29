@@ -1,0 +1,45 @@
+{
+    "stations": [
+      {
+        "name": "London Paddington",
+        "code": "PAD",
+        "location": { "latitude": 51.5167, "longitude": -0.1764 },
+        "services": ["Intercity", "CrossCountry", "Heathrow Express"],
+        "facilities": { "ticketing": true, "parking": true, "wifi": true },
+        "platforms": ["1A", "1B", "2A", "2B"],
+        "manager": "Network Rail",
+        "contact": { "phone": "+44 20 1234 5678", "email": "info@paddingtonstation.com" }
+      },
+      {
+        "name": "Manchester Piccadilly",
+        "code": "MAN",
+        "location": { "latitude": 53.4773, "longitude": -2.2305 },
+        "services": ["Intercity", "Northern", "TransPennine Express"],
+        "facilities": { "ticketing": true, "parking": true, "wifi": true },
+        "platforms": ["A", "B", "C", "D"],
+        "manager": "Network Rail",
+        "contact": { "phone": "+44 161 9876 5432", "email": "info@manchesterpiccadilly.com" }
+      },
+      {
+        "name": "Edinburgh Waverley",
+        "code": "EDB",
+        "location": { "latitude": 55.9521, "longitude": -3.1905 },
+        "services": ["Intercity", "ScotRail", "CrossCountry"],
+        "facilities": { "ticketing": true, "parking": false, "wifi": true },
+        "platforms": ["1", "2", "3", "4"],
+        "manager": "Network Rail",
+        "contact": { "phone": "+44 131 8765 4321", "email": "info@edinburghwaverley.com" }
+      },
+      {
+        "name": "Leeds",
+        "code": "LDS",
+        "location": { "latitude": 53.7957, "longitude": -1.5474 },
+        "services": ["Intercity", "Northern", "CrossCountry"],
+        "facilities": { "ticketing": true, "parking": true, "wifi": true },
+        "platforms": ["1", "2", "3", "4"],
+        "manager": "Network Rail",
+        "contact": { "phone": "+44 113 9876 5432", "email": "info@leedsstation.com" }
+      }
+    ]
+  }
+  
