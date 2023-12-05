@@ -39,6 +39,26 @@
         "platforms": ["1", "2", "3", "4"],
         "manager": "Network Rail",
         "contact": { "phone": "+44 113 9876 5432", "email": "info@leedsstation.com" }
+      },
+      {
+        "name": "Birmingham",
+        "code": "BHM",
+        "location": { "latitude": 52.4862, "longitude": -1.8904 },
+        "services": ["Intercity", "West Midlands Railway", "CrossCountry"],
+        "facilities": { "ticketing": true, "parking": true, "wifi": true },
+        "platforms": ["1", "2", "3", "4"],
+        "manager": "Birmingham Rail Authority",
+        "contact": { "phone": "+44 121 8765 4321", "email": "info@birminghamstation.com" }
+      },
+      {
+        "name": "Glasgow",
+        "code": "GLA",
+        "location": { "latitude": 55.8609, "longitude": -4.2514 },
+        "services": ["ScotRail", "Virgin Trains", "CrossCountry"],
+        "facilities": { "ticketing": true, "parking": true, "wifi": true },
+        "platforms": ["A", "B", "C", "D"],
+        "manager": "Glasgow Rail Services",
+        "contact": { "phone": "+44 141 5678 1234", "email": "info@glasgowstation.com" }
       }
     ]
   }
