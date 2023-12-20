@@ -1,0 +1,165 @@
+{
+    "stations": [
+      {
+        "en": {
+          "name": "London Paddington",
+          "code": "PAD",
+          "location": { "latitude": 51.5167, "longitude": -0.1764 },
+          "services": ["Intercity", "CrossCountry", "Heathrow Express"],
+          "facilities": { "ticketing": true, "parking": true, "wifi": true },
+          "platforms": ["1A", "1B", "2A", "2B"],
+          "manager": "Network Rail",
+          "contact": { "phone": "+44 20 1234 5678", "email": "info@paddingtonstation.com" }
+        },
+        "cy": {
+          "name": "Llundain Paddington",
+          "code": "PAD",
+          "location": { "latitude": 51.5167, "longitude": -0.1764 },
+          "services": ["Interddinasol", "TraversoGwlad", "CyflymderHeathrow"],
+          "facilities": { "ticketing": true, "parking": true, "wifi": true },
+          "platforms": ["1A", "1B", "2A", "2B"],
+          "manager": "Rhwydwaith Rheilffordd",
+          "contact": { "phone": "+44 20 1234 5678", "email": "gwybodaeth@oriel.llundainpaddington.cym" }
+        },
+        "ar": {
+          "name": "لندن بادينغتون",
+          "code": "PAD",
+          "location": { "latitude": 51.5167, "longitude": -0.1764 },
+          "services": ["بين المدن", "عبر البلاد", "هيثرو اكسبرس"],
+          "facilities": { "ticketing": true, "parking": true, "wifi": true },
+          "platforms": ["1A", "1B", "2A", "2B"],
+          "manager": "Network Rail",
+          "contact": { "phone": "+44 20 1234 5678", "email": "info@paddingtonstation.com" }
+        }
+      },
+      {
+        "en": {
+          "name": "Manchester Piccadilly",
+          "code": "MAN",
+          "location": { "latitude": 53.4774, "longitude": -2.2304 },
+          "services": ["Intercity", "Northern", "TransPennine Express"],
+          "facilities": { "ticketing": true, "parking": true, "wifi": true },
+          "platforms": ["1", "2", "3", "4"],
+          "manager": "Network Rail",
+          "contact": { "phone": "+44 161 9876 5432", "email": "info@manchesterpiccadilly.com" }
+        },
+        "cy": {
+          "name": "Manchester Piccadilly",
+          "code": "MAN",
+          "location": { "latitude": 53.4774, "longitude": -2.2304 },
+          "services": ["Interddinasol", "Gogleddol", "Express TransPennine"],
+          "facilities": { "ticketing": true, "parking": true, "wifi": true },
+          "platforms": ["1", "2", "3", "4"],
+          "manager": "Rhwydwaith Rheilffordd",
+          "contact": { "phone": "+44 161 9876 5432", "email": "gwybodaeth@manchesterpiccadilly.cym" }
+        },
+        "ar": {
+          "name": "مانشستر بيكاديلي",
+          "code": "MAN",
+          "location": { "latitude": 53.4774, "longitude": -2.2304 },
+          "services": ["بين المدن", "شمالي", "ترانسبينين اكسبريس"],
+          "facilities": { "ticketing": true, "parking": true, "wifi": true },
+          "platforms": ["1", "2", "3", "4"],
+          "manager": "Network Rail",
+          "contact": { "phone": "+44 161 9876 5432", "email": "info@manchesterpiccadilly.com" }
+        }
+      },
+      {
+        "en": {
+          "name": "Edinburgh Waverley",
+          "code": "EDB",
+          "location": { "latitude": 55.9521, "longitude": -3.1902 },
+          "services": ["Intercity", "ScotRail", "CrossCountry"],
+          "facilities": { "ticketing": true, "parking": true, "wifi": true },
+          "platforms": ["A", "B", "C", "D"],
+          "manager": "Network Rail",
+          "contact": { "phone": "+44 131 9876 5432", "email": "info@edinburghwaverley.com" }
+        },
+        "cy": {
+          "name": "Edinburgh Waverley",
+          "code": "EDB",
+          "location": { "latitude": 55.9521, "longitude": -3.1902 },
+          "services": ["Interddinasol", "ScotRail", "CrossCountry"],
+          "facilities": { "ticketing": true, "parking": true, "wifi": true },
+          "platforms": ["A", "B", "C", "D"],
+          "manager": "Rhwydwaith Rheilffordd",
+          "contact": { "phone": "+44 131 9876 5432", "email": "gwybodaeth@edinburghwaverley.cym" }
+        },
+        "ar": {
+          "name": "إدنبرة ويفرلي",
+          "code": "EDB",
+          "location": { "latitude": 55.9521, "longitude": -3.1902 },
+          "services": ["بين المدن", "سكوتريل", "عبر البلاد"],
+          "facilities": { "ticketing": true, "parking": true, "wifi": true },
+          "platforms": ["A", "B", "C", "D"],
+          "manager": "Network Rail",
+          "contact": { "phone": "+44 131 9876 5432", "email": "info@edinburghwaverley.com" }
+        }
+      },
+      {
+        "en": {
+          "name": "Birmingham New Street",
+          "code": "BHM",
+          "location": { "latitude": 52.4778, "longitude": -1.8984 },
+          "services": ["Intercity", "West Midlands Railway", "CrossCountry"],
+          "facilities": { "ticketing": true, "parking": true, "wifi": true },
+          "platforms": ["A", "B", "C", "D"],
+          "manager": "Network Rail",
+          "contact": { "phone": "+44 121 9876 5432", "email": "info@birminghamnewstreet.com" }
+        },
+        "cy": {
+          "name": "Birmingham New Street",
+          "code": "BHM",
+          "location": { "latitude": 52.4778, "longitude": -1.8984 },
+          "services": ["Interddinasol", "West Midlands Railway", "CrossCountry"],
+          "facilities": { "ticketing": true, "parking": true, "wifi": true },
+          "platforms": ["A", "B", "C", "D"],
+          "manager": "Rhwydwaith Rheilffordd",
+          "contact": { "phone": "+44 121 9876 5432", "email": "gwybodaeth@birminghamnewstreet.cym" }
+        },
+        "ar": {
+          "name": "برمنجهام نيو ستريت",
+          "code": "BHM",
+          "location": { "latitude": 52.4778, "longitude": -1.8984 },
+          "services": ["بين المدن", "سكة حديد غرب ميدلاندز", "عبر البلاد"],
+          "facilities": { "ticketing": true, "parking": true, "wifi": true },
+          "platforms": ["A", "B", "C", "D"],
+          "manager": "Network Rail",
+          "contact": { "phone": "+44 121 9876 5432", "email": "info@birminghamnewstreet.com" }
+        }
+      },
+      {
+        "en": {
+          "name": "Glasgow Central",
+          "code": "GLC",
+          "location": { "latitude": 55.8609, "longitude": -4.2580 },
+          "services": ["Intercity", "ScotRail", "CrossCountry"],
+          "facilities": { "ticketing": true, "parking": true, "wifi": true },
+          "platforms": ["1", "2", "3", "4"],
+          "manager": "Network Rail",
+          "contact": { "phone": "+44 141 9876 5432", "email": "info@glasgowcentral.com" }
+        },
+        "cy": {
+          "name": "Glasgow Central",
+          "code": "GLC",
+          "location": { "latitude": 55.8609, "longitude": -4.2580 },
+          "services": ["Interddinasol", "ScotRail", "CrossCountry"],
+          "facilities": { "ticketing": true, "parking": true, "wifi": true },
+          "platforms": ["1", "2", "3", "4"],
+          "manager": "Rhwydwaith Rheilffordd",
+          "contact": { "phone": "+44 141 9876 5432", "email": "gwybodaeth@glasgowcentral.cym" }
+        },
+        "ar": {
+          "name": "جلاسكو سنترال",
+          "code": "GLC",
+          "location": { "latitude": 55.8609, "longitude": -4.2580 },
+          "services": ["بين المدن", "سكوتريل", "عبر البلاد"],
+          "facilities": { "ticketing": true, "parking": true, "wifi": true },
+          "platforms": ["1", "2", "3", "4"],
+          "manager": "Network Rail",
+          "contact": { "phone": "+44 141 9876 5432", "email": "info@glasgowcentral.com" }
+        }
+      }
+    ]
+  }
+  
