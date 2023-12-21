@@ -1,7 +1,7 @@
 {
     "stations": [
       {
-        "en": {
+        "en-gb": {
           "name": "London Paddington",
           "code": "PAD",
           "location": { "latitude": 51.5167, "longitude": -0.1764 },
@@ -33,7 +33,7 @@
         }
       },
       {
-        "en": {
+        "en-gb": {
           "name": "Manchester Piccadilly",
           "code": "MAN",
           "location": { "latitude": 53.4774, "longitude": -2.2304 },
@@ -65,7 +65,7 @@
         }
       },
       {
-        "en": {
+        "en-gb": {
           "name": "Edinburgh Waverley",
           "code": "EDB",
           "location": { "latitude": 55.9521, "longitude": -3.1902 },
@@ -97,7 +97,7 @@
         }
       },
       {
-        "en": {
+        "en-gb": {
           "name": "Birmingham New Street",
           "code": "BHM",
           "location": { "latitude": 52.4778, "longitude": -1.8984 },
@@ -129,7 +129,7 @@
         }
       },
       {
-        "en": {
+        "en-gb": {
           "name": "Glasgow Central",
           "code": "GLC",
           "location": { "latitude": 55.8609, "longitude": -4.2580 },
